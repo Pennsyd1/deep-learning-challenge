@@ -17,7 +17,7 @@ What variable(s) are the target(s) for your model?
 What variable(s) are the features for your model?
     The variables that are the features are ask amount, income amount, use case,classification, and affiliation type.
     
-    <img width="479" alt="image" src="https://github.com/Pennsyd1/deep-learning-challenge/assets/118862894/9a9ca6bf-f98b-4b19-95ef-0f8e1c37d741">
+   <img width="479" alt="image" src="https://github.com/Pennsyd1/deep-learning-challenge/assets/118862894/9a9ca6bf-f98b-4b19-95ef-0f8e1c37d741">
 
     
 What variable(s) should be removed from the input data because they are neither targets nor features?
