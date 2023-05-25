@@ -12,11 +12,11 @@ The purpose of the analyis is to create a model that helps select the applicants
 Data Preprocessing
 
 What variable(s) are the target(s) for your model?
-    *The target variable is the "IS_SUCCESSFUL" column that determines if the company was successful.
+    **The target variable is the "IS_SUCCESSFUL" column that determines if the company was successful.
 What variable(s) are the features for your model?
-    * The variables that are the features are ask amount, income amount, use case,classification, affiliation, and affiliation type.
+    ** The variables that are the features are ask amount, income amount, use case,classification, affiliation, and affiliation type.
 What variable(s) should be removed from the input data because they are neither targets nor features?
-    *"EIN","NAME", "SPECIAL_CONSIDERATIONS", "ORGANIZATION", "STATUS", "AFFILIATION", "INCOME_AMT"
+    **"EIN","NAME", "SPECIAL_CONSIDERATIONS", "ORGANIZATION", "STATUS", "AFFILIATION", "INCOME_AMT"
     
 Compiling, Training, and Evaluating the Model
 
